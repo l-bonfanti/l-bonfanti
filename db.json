@@ -10,10 +10,10 @@
     { "id": "3", "text": "a comment about post 2", "postId": "2" },
     { "id": "4", "text": "another comment about post 2", "postId": "2" }
   ],
-  "news": [  
-     {  "idNew": 1,  "title": "My News 1"  },  
-     {  "idNew": 2,  "title": "My News 2"  }  
-  ],  
+  "news": [
+    { "idNew": 1, "title": "My News 1" },
+    { "idNew": 2, "title": "My News 2" }
+  ],
   "profile": {
     "name": "Admiral"
   }
