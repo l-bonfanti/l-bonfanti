@@ -1,12 +1,14 @@
 {
   "posts": [
     { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
+    { "id": "2", "title": "another title", "views": 200 },
     { "id": "3", "title": "third title", "views": 333 }
   ],
   "comments": [
     { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    { "id": "2", "text": "another comment about post 1", "postId": "1" },
+    { "id": "3", "text": "a comment about post 2", "postId": "2" },
+    { "id": "4", "text": "another comment about post 2", "postId": "2" }
   ],
   "news": [  
      {  "idNew": 1,  "title": "My News 1"  },  
